@@ -9,6 +9,8 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
 
+Blog Link [Authorization in Phoenix LiveView](https://hashrocket.com/blog/posts/authorization-in-phoenix-liveview#changing-user-roles)
+
 ## Learn more
 
   * Official website: https://www.phoenixframework.org/
